@@ -205,4 +205,9 @@ footer ul.social-icons li a:hover i {
       background-color: orangered;
       transition: 1s;
   }
+  .copyright{
+    text-align: center;
+  background-color: black;
+  padding: 10px;
+}
 }
